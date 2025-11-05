@@ -1,16 +1,95 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Yajharis%20Espino&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
+👋 Hola, bienvenido a mi perfil
 
-<!--
-**viachicayajharis-cpu/viachicayajharis-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌿Soy Yajharis Espino, tengo 21 años y actualmente curso el quinto año de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI–Nicaragua).
 
-Here are some ideas to get you started:
+Me apasiona todo lo relacionado con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo de software  
+- Programación  
+- Bases de datos  
+- Sistemas operativos  
+- Ingeniería de software  
+- Inteligencia artificial  
+- Auditoría y modelación de sistemas  
+
+Mi formación académica, junto con los cursos técnicos y mi participación en hackathons, respaldan mi crecimiento como futura ingeniera con base sólida en tecnología, análisis y desarrollo.
+
+---
+
+## 🧩 Sobre mí
+
+- 🎓 Estudiante de Ingeniería de Sistemas (UNI, 2021–presente)  
+- 📍 Nicaragua  
+- 📧 *viachicayajharis@gmail.com*  
+- 🤝 Responsable, proactiva, adaptable y con comunicación efectiva  
+- 🧠 Aprendizaje rápido y constante  
+
+---
+
+## 🖥 Áreas en las que estoy creciendo
+
+Estas son las materias más relevantes de mi plan de estudios que fortalecen mis habilidades técnicas:
+
+### 🔹 Programación y Desarrollo de Software
+- Introducción a la Programación  
+- Programación I  
+- Programación II  
+- Ingeniería de Software I  
+- Ingeniería de Software II  
+- Aplicaciones Gráficas y Multimedia  
+- Diseño de Sistemas en Internet  
+
+### 🔹 Bases de Datos y Sistemas
+- Base de Datos I  
+- Base de Datos II  
+- Sistemas Operativos  
+- Sistemas Operativos de Redes  
+- Administración Informática  
+- Auditoría de Sistemas  
+
+### 🔹 Modelación, Simulación y Optimización
+- Métodos Numéricos  
+- Investigación de Operaciones I y II  
+- Modelación y Simulación de Sistemas  
+
+### 🔹 Inteligencia Artificial y Arquitectura
+- Inteligencia Artificial  
+- Arquitectura de Máquina  
+---
+
+## 🛠 Habilidades técnicas
+
+- Programación  
+- Manejo de bases de datos  
+- Excel avanzado  
+- Ofimática  
+- Modelación y diseño de sistemas  
+- Análisis lógico y matemático  
+- Resolución de problemas  
+
+---
+
+## 📚 Cursos realizados
+
+✅ Sistemas Operativos y Ofimática — Junio 2023  
+✅ Excel Avanzado — Julio 2023  
+
+---
+
+## 🚀 Participaciones destacadas
+
+- Hackathon Regional Estelí 2022  
+- Hackathon Nacional Nicaragua 2022  
+- III Foro Tecnológico Ingeniería de Sistemas — 2021  
+
+---
+
+## 🧾 Mi filosofía como futura ingeniera
+
+Creo en el aprendizaje constante, en trabajar con propósito y en desarrollar soluciones que aporten valor real.  
+Me gustan los retos, el trabajo en equipo y construir proyectos que resuelvan problemas.
+
+---
