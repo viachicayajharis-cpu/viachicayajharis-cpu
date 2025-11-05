@@ -1,114 +1,188 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=250&section=header&text=Yajharis%20Espino&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
-👋 Hola, bienvenido a mi perfil
 
-🌿Soy Yajharis Espino, tengo 21 años y actualmente curso el quinto año de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI–Managua).
+<h2 align="center">👋 ¡Hola, bienvenido a mi perfil!</h2>
 
-Me apasiona todo lo relacionado con:
-
-- Desarrollo de software  
-- Programación  
-- Bases de datos  
-- Sistemas operativos  
-- Ingeniería de software  
-- Inteligencia artificial  
-- Auditoría y modelación de sistemas  
-
-Mi formación académica, junto con los cursos técnicos y mi participación en hackathons, respaldan mi crecimiento como futura ingeniera con base sólida en tecnología, análisis y desarrollo.
+<p align="center">
+  Soy <b>Yajharis Espino</b>, estudiante de 5to año de Ingeniería de Sistemas en la UNI–Managua.
+  Me apasionan el desarrollo de software, la inteligencia artificial
+  y la auditoría de sistemas.
+</p>
 
 ---
 
-## 🧩 Sobre mí
+# 🧩 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas (UNI, 2021–presente)  
-- 📍 Nicaragua  
-- 📧 *viachicayajharis@gmail.com*  
-- 🤝 Responsable, proactiva, adaptable y con comunicación efectiva  
-- 🧠 Aprendizaje rápido y constante  
+<div align="center">
+
+<table>
+  <tr>
+    <td width="45%" style="vertical-align: top;">
+      <h3>👤 Información Personal</h3>
+      <ul>
+        <li>🎓 Ingeniería de Sistemas (2021–presente)</li>
+        <li>📍 Nicaragua</li>
+        <li>📧 viachicayajharis@gmail.com</li>
+        <li>🤝 Responsable, proactiva y adaptable</li>
+        <li>🧠 Aprendizaje rápido</li>
+      </ul>
+    </td>
+
+<td width="45%" style="vertical-align: top;">
+<h3>🎯 Intereses Profesionales</h3>
+<ul>
+  <li>Desarrollo de software</li>
+  <li>Programación</li>
+  <li>Bases de datos</li>
+  <li>Inteligencia artificial</li>
+  <li>Auditoría de sistemas</li>
+  <li>Modelación y simulación</li>
+</ul>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🖥️ Áreas de formación
+
+<div align="center">
+
+<table>
+<tr>
+<td width="45%" style="vertical-align: top;">
+
+<h3>💻 Programación y Desarrollo</h3>
+<ul>
+  <li>Introducción a la Programación</li>
+  <li>Programación I y II</li>
+  <li>Ingeniería de Software I y II</li>
+  <li>Aplicaciones Gráficas y Multimedia</li>
+  <li>Diseño de Sistemas en Internet</li>
+</ul>
+
+</td>
+
+<td width="45%" style="vertical-align: top;">
+
+<h3>🗄 Bases de Datos y Sistemas</h3>
+<ul>
+  <li>Bases de Datos I y II</li>
+  <li>Sistemas Operativos</li>
+  <li>Sistemas Operativos de Redes</li>
+  <li>Administración Informática</li>
+  <li>Auditoría de Sistemas</li>
+</ul>
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" style="vertical-align: top;">
+
+<h3>📊 Modelación y Optimización</h3>
+<ul>
+  <li>Métodos Numéricos</li>
+  <li>Investigación de Operaciones I y II</li>
+  <li>Modelación y Simulación</li>
+</ul>
+
+</td>
+
+<td width="45%" style="vertical-align: top;">
+
+<h3>🤖 IA y Arquitectura</h3>
+<ul>
+  <li>Inteligencia Artificial</li>
+  <li>Arquitectura de Máquina</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🖥 Áreas en las que estoy creciendo
+# 🛠️ Tecnologías
 
-Estas son las materias más relevantes de mi plan de estudios que fortalecen mis habilidades técnicas:
+<div align="center">
 
-### 🔹 Programación y Desarrollo de Software
-- Introducción a la Programación  
-- Programación I  
-- Programación II  
-- Ingeniería de Software I  
-- Ingeniería de Software II  
-- Aplicaciones Gráficas y Multimedia  
-- Diseño de Sistemas en Internet  
+<table>
+<tr>
+<td width="45%" align="center">
 
-### 🔹 Bases de Datos y Sistemas
-- Base de Datos I  
-- Base de Datos II  
-- Sistemas Operativos  
-- Sistemas Operativos de Redes  
-- Administración Informática  
-- Auditoría de Sistemas  
+<h3>🔹 Lenguajes</h3>
 
-### 🔹 Modelación, Simulación y Optimización
-- Métodos Numéricos  
-- Investigación de Operaciones I y II  
-- Modelación y Simulación de Sistemas  
-
-### 🔹 Inteligencia Artificial y Arquitectura
-- Inteligencia Artificial  
-- Arquitectura de Máquina  
----
-
-## 🛠 Habilidades técnicas
-
-- Programación  
-- Manejo de bases de datos  
-- Excel avanzado  
-- Ofimática  
-- Modelación y diseño de sistemas  
-- Resolución de problemas  
-
----
-Todas estas asignaturas me han permitido desarrollar pensamiento lógico, habilidades de análisis, resolución de problemas y dominio de herramientas informáticas fundamentales.
----
-# 🛠️ Tecnologías, herramientas y habilidades
-
-### 🔹 Lenguajes de programación  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-### 🔹 Bases de datos  
+</td>
+
+<td width="45%" align="center">
+
+<h3>🔹 Bases de Datos</h3>
+
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🔹 Desarrollo y herramientas  
+</td>
+</tr>
+
+<tr>
+<td width="100%" align="center" colspan="2">
+
+<h3>🔹 Herramientas y Entornos</h3>
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
----
-## 📚 Cursos realizados
+</td>
+</tr>
+</table>
 
-✅ Sistemas Operativos y Ofimática — Junio 2023  
-✅ Excel Avanzado — Julio 2023  
-
----
-
-## 🚀 Participaciones destacadas
-
-- Hackathon Regional Estelí 2022  
-- Hackathon Nacional Nicaragua 2022  
-- III Foro Tecnológico Ingeniería de Sistemas — 2021  
+</div>
 
 ---
 
-## 🧾 Mi filosofía como futura ingeniera
+# 📚 Cursos
 
-Creo en el aprendizaje constante, en trabajar con propósito y en desarrollar soluciones que aporten valor real.  
-Me gustan los retos, el trabajo en equipo y construir proyectos que resuelvan problemas.
+<div align="center">
+  
+| Curso | Fecha |
+|-------|--------|
+| ✅ Sistemas Operativos y Ofimática | Junio 2023 |
+| ✅ Excel Avanzado | Julio 2023 |
+
+</div>
+
+---
+
+# 🚀 Participación en Eventos
+
+<div align="center">
+
+| Evento | Año |
+|--------|-----|
+| Hackathon Regional Estelí | 2022 |
+| Hackathon Nacional Nicaragua | 2022 |
+| III Foro Tecnológico Ingeniería de Sistemas | 2021 |
+
+</div>
+
+---
+
+# 🧾 Mi filosofía como futura ingeniera
+
+> Creo en el aprendizaje constante, en trabajar con propósito y en crear soluciones que aporten valor real.  
+Me gustan los retos, la colaboración y construir proyectos que resuelvan problemas.
 
 ---
