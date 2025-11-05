@@ -83,10 +83,9 @@
 <tr>
 
 <td width="45%" style="vertical-align: top;">
-<h3>📊 Modelación y Optimización</h3>
+<h3>📊 Modelación y Simulación</h3>
 <ul>
   <li>🌀 Modelación y Simulación</li>
-  <li>🔢 Métodos Numéricos</li>
 </ul>
 </td>
 
@@ -128,19 +127,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-# 📚 Cursos
-
-<div align="center">
-
-| Curso | Fecha |
-|-------|--------|
-| ✅ Sistemas Operativos y Ofimática | Junio 2023 |
-| ✅ Excel Avanzado | Julio 2023 |
 
 </div>
 
