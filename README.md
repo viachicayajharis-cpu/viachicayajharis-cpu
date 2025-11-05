@@ -134,20 +134,6 @@
 
 ---
 
-# 📊 Estadísticas de GitHub (Theme Dark)
-
-<div align="center">
-
-<!-- Tarjeta principal -->
-<img src="https://github-readme-stats.vercel.app/api?username=viachicayajharis-cpu&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D" height="150px"/>
-
-<!-- Lenguajes -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viachicayajharis-cpu&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&border_color=30363D" height="150px"/>
-
-</div>
-
----
-
 # 📚 Cursos
 
 <div align="center">
