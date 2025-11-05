@@ -106,7 +106,7 @@
 
 ---
 
-# 🛠️ Tecnologías (en tarjetas con íconos)
+# 🛠️ Tecnologías
 
 <div align="center">
 
