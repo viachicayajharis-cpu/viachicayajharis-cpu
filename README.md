@@ -85,9 +85,8 @@
 <td width="45%" style="vertical-align: top;">
 <h3>📊 Modelación y Optimización</h3>
 <ul>
-  <li>🔢 Métodos Numéricos</li>
-  <li>📈 Investigación de Operaciones I y II</li>
   <li>🌀 Modelación y Simulación</li>
+  <li>🔢 Métodos Numéricos</li>
 </ul>
 </td>
 
