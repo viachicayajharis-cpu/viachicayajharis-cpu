@@ -3,7 +3,7 @@
 </p>
 👋 Hola, bienvenido a mi perfil
 
-🌿Soy Yajharis Espino, tengo 21 años y actualmente curso el quinto año de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI–Nicaragua).
+🌿Soy Yajharis Espino, tengo 21 años y actualmente curso el quinto año de Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI–Managua).
 
 Me apasiona todo lo relacionado con:
 
@@ -67,12 +67,10 @@ Estas son las materias más relevantes de mi plan de estudios que fortalecen mis
 - Excel avanzado  
 - Ofimática  
 - Modelación y diseño de sistemas  
-- Análisis lógico y matemático  
 - Resolución de problemas  
 
 ---
 Todas estas asignaturas me han permitido desarrollar pensamiento lógico, habilidades de análisis, resolución de problemas y dominio de herramientas informáticas fundamentales.
-
 ---
 # 🛠️ Tecnologías, herramientas y habilidades
 
