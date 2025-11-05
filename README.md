@@ -71,7 +71,28 @@ Estas son las materias más relevantes de mi plan de estudios que fortalecen mis
 - Resolución de problemas  
 
 ---
+Todas estas asignaturas me han permitido desarrollar pensamiento lógico, habilidades de análisis, resolución de problemas y dominio de herramientas informáticas fundamentales.
 
+---
+# 🛠️ Tecnologías, herramientas y habilidades
+
+### 🔹 Lenguajes de programación  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### 🔹 Bases de datos  
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔹 Desarrollo y herramientas  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
 ## 📚 Cursos realizados
 
 ✅ Sistemas Operativos y Ofimática — Junio 2023  
